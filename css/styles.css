@@ -305,7 +305,7 @@
 	font-weight: 400;
 	color: #747474;
 	font-family: arial, helvetica, sans-serif;
-	font-size: 14px;
+	font-size: 16px;
 }
 
 .wf-montserrat-n4-active .about__main_info--07 {
@@ -560,6 +560,10 @@ a.contacts__item_text--04:visited {
 	}
 	.black-bar__link {
 		text-align: right;
+	}
+
+	.navbar img {
+	width: 130px !important;
 	}
 }
 .legal-text {

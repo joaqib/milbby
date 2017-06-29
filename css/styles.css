@@ -349,7 +349,7 @@
 }
 
 .black-bar {
-	background-color: dimgrey;
+	background-color: #c6c6c6;
 	display: flex;
 	justify-content: flex-end;
 	padding: 0 30px;
